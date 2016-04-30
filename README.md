@@ -1,5 +1,5 @@
 # amballah-libgdx
-a 2d game libgdx game
+a 2d libgdx game
 
 ### ScreenShots:
 ![alt text](https://raw.githubusercontent.com/ahmedengu/amballah-libgdx/master/screenshot1.png "screenshot1" )
