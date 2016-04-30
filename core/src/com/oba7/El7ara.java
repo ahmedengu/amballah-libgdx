@@ -14,8 +14,6 @@ public class El7ara extends Screen{
     public void create() {
         camera = new OrthoCamera();
         entities = new Entities();
-
-        System.out.println("oeuoeuo");
     }
 
     @Override
